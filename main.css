@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0
+}
+h1{
+    background-color: cadetblue;
+    color: #ffce00;
+    font-family: Arial;
+    text-align: center;
+    padding: 15px
+}
+.def p{
+    background-color: #a6aaa6;
+    color: aliceblue;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center
+}
+iframe{
+    padding-top: 15px
+}
+footer p{
+    color: chocolate;
+    font-size: 20px;
+    text-align: center;
+    padding: 15px
+}
